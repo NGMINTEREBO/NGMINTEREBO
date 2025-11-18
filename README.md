@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NGMINTEREBO
+- 👋 Hi, I’m FLORENCE NGMINTEREBO LANKONO
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning html,CSS,C,C++,javascript,Python 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me +233547084759
 
